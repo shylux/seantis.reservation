@@ -2,6 +2,12 @@
 Changelog
 =========
 
+1.2.1 (unreleased)
+------------------
+
+- Move reservation specific styles from plonetheme.onegov to this package.
+  [lknoepfel]
+
 1.2.0 (2015-02-10)
 ------------------
 
